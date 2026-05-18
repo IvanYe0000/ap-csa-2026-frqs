@@ -2,10 +2,10 @@
 My solutions and explanations for the 2026 AP Computer Science A Free Respone Question
 
 
-[] Question 1
-[] Question 2
-[] Question 3
-[] Question 4
+- [] Question 1
+- [] Question 2
+- [] Question 3
+- [] Question 4
 
 ## Reflection
 Working through these after the exam helped me...
