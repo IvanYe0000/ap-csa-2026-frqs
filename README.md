@@ -3,6 +3,6 @@ My solutions and explanations for the 2026 AP Computer Science A Free Respone Qu
 
 
 [] Question 1
-[] Question 1
-[] Question 1
-[] Question 1
+[] Question 2
+[] Question 3
+[] Question 4
