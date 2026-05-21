@@ -1,5 +1,5 @@
 public Account(String requestedName){
-  String username = requestedName;
+  username = requestedName;
   if(username.isAvailable()){
     username = requestedName; 
   } else {
