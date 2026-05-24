@@ -1,7 +1,8 @@
 public Account(String requestedName){
   username = requestedName;
+  int num = 1; 
   if(username.isAvailable()){
-    username = requestedName; 
-  } else {
-    return false;
+    username = requestedName + num;
+    num++;
+  }
 }
