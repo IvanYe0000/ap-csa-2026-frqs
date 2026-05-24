@@ -7,7 +7,7 @@
 Unit 4 and Unit 2 helped me with this question
 
 # What gave me Trouble
-- Something that given me trouble when trying to figure out how to remove the letter after the hyphen. I tried to skip chaaracters but it didn't work becuase the character before the hyphen have to be remove. So i use subsstring to delete the character before the hyphen.
+- Something that given me trouble when trying to figure out how to remove the hyphen and the character before the hyphen. I thought skiiping the hyphen with loop would work but it didn't because the character had to be removed. And also i got stuck on going backward in the string so i just created a new string.
 
-*What I would do differently
-- I would have just write my thought on a paper so i could piece by piece my code in the correct format
+# What I would do differently
+- I would have just write my thought on a paper so i could piece by piece my code in the correct format.
